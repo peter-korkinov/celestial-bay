@@ -342,8 +342,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#0AC6FC !important;}
 /* Navigation */
 #mainav li a{color:inherit;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#0AC6FC; background-color:inherit;}
-#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(63,63,241,.7); border-color:rgba(63,63,241,.9);/* #0AC6FC */}
-#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#3e3ff1;}
+#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color: rgba(47, 47, 169, 0.6); border-color:rgba(0,0,0,.9);/* #0AC6FC */}
+#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color: #2f2fa9;}
 #mainav form select{color:#474747; background-color:#FFFFFF; border-color:#D7D7D7;}
 
 #breadcrumb *{color:#FFFFFF; background-color:inherit;}
